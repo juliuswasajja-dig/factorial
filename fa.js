@@ -1,3 +1,9 @@
+/* Group Members
+Joshua Makula
+Julius Wasajja
+Queen Emily
+Trevor Kakuba */
+
 /* 
   A facortial is the product of all positive numbers from n down.
   Written as: n!
