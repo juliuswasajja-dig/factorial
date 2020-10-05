@@ -1,0 +1,24 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Joshua",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mocha"
+  },
+  "description": ""
+}
