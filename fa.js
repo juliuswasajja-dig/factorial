@@ -5,7 +5,7 @@ Queen Emily
 Trevor Kakuba */
 
 /* 
-  A facortial is the product of all positive numbers from n down.
+  A factial is the product of all positive numbers from n down.
   Written as: n!
   Examples 10! = 10*9*8*7*6*5*4*3*2*1
 */
@@ -27,9 +27,9 @@ function factorialNumber(num) {
     console.log(num);
      return num;
   }
-  n = 3
-  let n1 =  factorialNumber(n);
+  // n = 3
+  // let n1 =  factorialNumber(n);
   
 
-  module.exports = n1;
+  module.exports = factorialNumber;
  
